@@ -33,3 +33,7 @@ function prependKitten(name) {
   return [name,...kittens]
 }
 appendKitten(Arnold)
+
+function removeLastKitten() {
+  
+}
