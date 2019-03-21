@@ -19,3 +19,5 @@ destructivelyPrependKitten(Bob)
 function destructivelyRemoveLastKitten() {
   kittens.pop()
 }
+
+function 
