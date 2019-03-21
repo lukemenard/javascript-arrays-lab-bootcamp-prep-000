@@ -28,3 +28,8 @@ function appendKitten(name) {
   return [...kittens,name]
 }
 appendKitten(Broom)
+
+function prependKitten(name) {
+  return [name,...kittens]
+}
+appendKitten(Broom)
