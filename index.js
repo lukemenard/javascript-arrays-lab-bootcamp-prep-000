@@ -14,4 +14,4 @@ destructivelyAppendKitten(Ralph)
 function destructivelyPrependKitten(name) {
   return kittens.push(name)
 }
-destructivelyPrependKitten(Ralph)
+destructivelyPrependKitten(Bob)
