@@ -32,4 +32,4 @@ appendKitten(Broom)
 function prependKitten(name) {
   return [name,...kittens]
 }
-appendKitten(Broom)
+appendKitten(Arnold)
