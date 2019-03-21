@@ -17,3 +17,5 @@ function destructivelyPrependKitten(name) {
 destructivelyPrependKitten(Bob)
 
 function destructivelyRemoveLastKitten() {
+  
+}
