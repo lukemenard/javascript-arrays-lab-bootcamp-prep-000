@@ -16,4 +16,4 @@ function destructivelyPrependKitten(name) {
 }
 destructivelyPrependKitten(Bob)
 
-function 
+function destructivelyRemoveLastKitten() {
